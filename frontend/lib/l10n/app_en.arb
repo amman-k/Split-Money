@@ -1,0 +1,123 @@
+{
+  "@@locale": "en",
+  "appTitle": "SplitEase",
+  "welcomeTitle": "Split expenses without the awkwardness",
+  "welcomeSubtitle": "Track shared expenses, split bills fairly, and settle balances with friends, family, roommates, or travel groups—all in one place.",
+  "getStarted": "Get Started",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "signUpHeaderTitle": "Create your account",
+  "signUpHeaderSubtitle": "Start splitting expenses with your friends in minutes.",
+  "signInHeaderTitle": "Welcome back",
+  "signInHeaderSubtitle": "Sign in to continue splitting expenses with your friends.",
+  "fullNameLabel": "Full Name",
+  "fullNamePlaceholder": "John Doe",
+  "emailLabel": "Email Address",
+  "emailPlaceholder": "john@example.com",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "••••••••",
+  "createAccountButton": "Create Account",
+  "signInButton": "Sign In",
+  "alreadyHaveAccount": "Already have an account?",
+  "dontHaveAccount": "Don't have an account?",
+  "fieldRequiredError": "This field is required",
+  "invalidEmailError": "Please enter a valid email address",
+  "passwordTooShortError": "Password must be at least 8 characters",
+  "dashboardTitle": "SplitEase",
+  "totalBalanceLabel": "TOTAL BALANCE",
+  "totalBalanceAmount": "$240.50",
+  "owedToYouLabel": "owed to you",
+  "settleUpAction": "Settle Up",
+  "addExpenseAction": "Add Expense",
+  "groupsSectionTitle": "Groups",
+  "createGroupAction": "Create Group",
+  "youAreOwedLabel": "YOU ARE OWED",
+  "youOweLabel": "YOU OWE",
+  "groupSkiTripTitle": "Ski Trip 2024",
+  "groupSkiTripSubtitle": "Expenses for our annual winter getaway",
+  "groupRoommatesTitle": "Roommates",
+  "groupRoommatesSubtitle": "Shared household bills and groceries",
+  "groupDinnerClubTitle": "Dinner Club",
+  "groupDinnerClubSubtitle": "Weekly dinner rotation and shared wine",
+  "navActivity": "Activity",
+  "navGroups": "Groups",
+  "navFriends": "Friends",
+  "navAccount": "Account",
+  "menuTooltip": "Open navigation menu",
+  "notificationsTooltip": "View notifications",
+  "createGroupScreenTitle": "Create Group",
+  "groupNameLabel": "GROUP NAME",
+  "groupNamePlaceholder": "e.g. Ski Trip 2024",
+  "groupDescriptionLabel": "DESCRIPTION",
+  "groupDescriptionOptional": "(optional)",
+  "groupDescriptionPlaceholder": "What's this group for?",
+  "addMembersLabel": "ADD MEMBERS",
+  "typeANamePlaceholder": "Type a name...",
+  "addMemberButton": "Add",
+  "groupMembersHeader": "Group Members ({count})",
+  "@groupMembersHeader": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ownerBadge": "Owner",
+  "youMemberName": "You",
+  "createGroupSubmitButton": "Create Group",
+  "groupNameRequiredError": "Please enter a group name",
+  "groupCreationSuccess": "Group created successfully",
+  "groupCreationError": "Failed to create group. Please try again.",
+  "noGroupsFoundTitle": "No groups yet",
+  "noGroupsFoundSubtitle": "Create your first group to start splitting expenses with friends!",
+  "retryAction": "Retry",
+  "failedToLoadGroups": "Failed to load groups",
+  "currentStanding": "Current Standing",
+  "youAreOwedTitleCase": "You are owed",
+  "totalGroupBalance": "TOTAL GROUP BALANCE: {amount}",
+  "@totalGroupBalance": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "recentExpenses": "Recent Expenses",
+  "allExpenses": "All Expenses",
+  "viewAll": "View all",
+  "youLent": "you lent",
+  "youOweLower": "you owe",
+  "participantsCount": "{count} Participants",
+  "@participantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "others": "Others",
+  "othersCount": "+{count} Others",
+  "@othersCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "paidBy": "{name} paid {amount} • {date}",
+  "@paidBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  }
+}
+
+

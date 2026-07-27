@@ -1,0 +1,15 @@
+# Environments
+.env
+
+# Binaries
+main
+split_backend
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Vendor
+vendor/
